@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="adoNet STAGE_LAB2"
+  DTS:DTSID="{2C15754B-6743-4FA4-BC09-B8638925BA79}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-1CROPR8\MSSQLSERVER2022;Initial Catalog=STAGE_LAB2;Integrated Security=True;Application Name=SSIS-Laboratorio2-{2C15754B-6743-4FA4-BC09-B8638925BA79}DESKTOP-1CROPR8\MSSQLSERVER2022.STAGE_LAB2;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

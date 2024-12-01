@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="oleDB STAGE_LAB21"
+  DTS:DTSID="{7DA58367-3D70-4D07-ABB5-6E5461C90C4D}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-1CROPR8\MSSQLSERVER2022;Initial Catalog=STAGE_LAB2;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Laboratorio2-{7DA58367-3D70-4D07-ABB5-6E5461C90C4D}DESKTOP-1CROPR8\MSSQLSERVER2022.STAGE_LAB21;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
